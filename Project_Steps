@@ -1,0 +1,19 @@
+Step 1 - Create an instance and bucket on any cloud provider.
+
+Step 2 - Now congigure it by giving Access key , Secret access key and starting that instance in any local terminal.
+(Windows - Nomachine/Mobaxterm/Putty)
+(Mac - iTerm2)
+(Linux - Linux terminal)
+
+Step 3 - Create an sample file in bash (Here i have created "aws_resource_tracker.sh").
+
+Step 4 - Write the script in bash to automate the process .
+
+Step 5 - Now just give the permissions by chmod(permission should be as per your convenience)
+
+Step 6 - Now just run this scripts and there you go , your ready to automate the following -
+#list s3 buckets
+#list EC2 instances
+#list lambda
+#list IAM users.
+
